@@ -1,4 +1,2 @@
-User-Agent: *
-Allow: /
-
-Sitemap: https://quavok.com/sitemap.xml
+User-agent: *
+Disallow: /

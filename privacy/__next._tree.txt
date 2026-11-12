@@ -1,7 +1,8 @@
-:HL["/quavok-preview/_next/static/chunks/3uz6paednt_cl.css","style"]
-:HL["/quavok-preview/_next/static/media/bricolage_latin-s.p.2ej1fmte5yjhi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/quavok-preview/_next/static/media/inter_latin-s.p.0gsaq8ukbf34m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/quavok-preview/_next/static/chunks/43kdghat7481_.css","style"]
+:HL["/quavok-preview/_next/static/chunks/2y4hmfxs8ej2m.css","style"]
+:HL["/quavok-preview/_next/static/media/manrope_latin-s.p.3mbsihvb8fg7z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/quavok-preview/_next/static/media/sora_latin-s.p.2o7d_x-bmx02y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/quavok-preview/assets/brand/logo-lockup.png","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
-1:[["children",{"s":"privacy","h":96,"c":"$Q2"}]]
-0:{"b":"vuGTaF3Tlipj1fxIxYlf8","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+1:[["children",{"s":"privacy","h":64,"c":"$Q2"}]]
+0:{"b":"6bgzMaKY70i_KtywIPmyl","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
